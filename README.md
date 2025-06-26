@@ -1,0 +1,1 @@
+O objetivo deste projeto é vender um sistema de controle de pontuação baseado em Harry Potter para escolas que desejam implantar essa metodologia.
